@@ -1,0 +1,23 @@
+# Environment & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large Model weights (downloaded via download_models.py)
+models/*.onnx
+
+# Data & Biometric files
+data/known_faces/
+data/test_images/
+data/exports/
+data/*.db
+data/*.sqlite
+data/*.csv
+
+# OS specific
+Thumbs.db
+.DS_Store

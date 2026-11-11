@@ -1,0 +1,13 @@
+# Core Computer Vision & Numerical Computing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Data Manipulation & Reporting
+pandas>=2.0.0
+
+# Evaluation & Visualizations
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.66.0
+pytest>=8.0.0
